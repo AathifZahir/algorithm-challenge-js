@@ -16,13 +16,9 @@ This repository contains solutions to three algorithmic problems using JavaScrip
    ```
 2. Navigate to the project directory:
    ```
-   cd algorithm-challenge
+   cd algorithm-challenge-js
    ```
 3. Run the JavaScript file using Node.js:
    ```
-   node algorithmChallenge.js
+   node algorithm.js
    ```
-
-## License
-
-This project is open-source and free to use.
